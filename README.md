@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi! I'm Pablo
 
-<!--
-**PabloToPamblo/PabloToPamblo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Self-Taught Developer and Passionate Programmer
 
-Here are some ideas to get you started:
+I've always been fascinated by technology and software development, which has led me to explore, learn, and sharpen my skills independently. Over my career, I've had the opportunity to work on innovative projects, especially within the banking payments sector and automated payment systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💳 **Experience in Payment Solutions**: I've developed systems that enable credit card payment processing and have integrated devices in high-traffic environments, like airports, enhancing the user experience for vending machines and other self-service points.
+  
+### 🚀 Exploring the World of DevOps
+
+Currently, I’m specializing in **DevOps**, where I'm delving into advanced services for managing productive environments through:
+- **Containerization with Docker**: Designing and optimizing Docker containers for complex applications.
+- **Microservices**: Developing and deploying distributed services.
+- **Kubernetes**: Orchestrating containers and deploying applications across scalable clusters.
+- **Serverless**: Exploring and deploying serverless applications with IBM Cloud Code Engine and other platforms.
+
+### 🌐 Exercises and Projects on GitHub
+
+In this repository, I share my progress and resolved exercises in container technologies, Kubernetes, and Python-based applications using Django and Flask, which are available for anyone interested in deepening their understanding of these tools.
+
