@@ -3,8 +3,6 @@
 </div>
 <img src="https://imgur.com/bo1yN6g.png">
 
-<img src="https://i.imgur.com/weNbhGZ.png">
-
 ### 🖥️ Self-Taught Developer and Passionate Programmer
 
 I've always been fascinated by technology and software development, which has led me to explore, learn, and sharpen my skills independently. Over my career, I've had the opportunity to work on innovative projects, especially within the banking payments sector and automated payment systems.
