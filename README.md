@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">👋 Hi! I'm Pablo</h1>
 </div>
-<img src="[https://imgur.com/a/vpFKX9q](https://imgur.com/bo1yN6g)">
+<img src="https://imgur.com/bo1yN6g">
 
 <img src="https://i.imgur.com/weNbhGZ.png">
 
