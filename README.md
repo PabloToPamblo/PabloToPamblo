@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">👋 Hi! I'm Pablo</h1>
 </div>
-<img src="https://i.imgur.com/weNbhGZ.png">
+<img src="https://imgur.com/a/vpFKX9q<">
 
 ### 🖥️ Self-Taught Developer and Passionate Programmer
 
